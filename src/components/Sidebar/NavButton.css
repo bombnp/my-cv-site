@@ -1,0 +1,27 @@
+.NavButton {
+    padding: 2.5vmin 15px;
+    background-color: #282c34;
+    border: none;
+    outline: none;
+    color: white;
+    text-decoration: none;
+    font-family: Gotham;
+    font-size: 2vmin;
+    transition: background-color 0.25s;
+}
+
+.NavButton:focus {
+    outline: none;
+}
+
+.NavButton:hover {
+    background-color: #1d2025;
+}
+
+.NavButton.active:hover {
+    background-color: #bb5511;
+}
+
+.active {
+    background-color: #ec6912;
+}

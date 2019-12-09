@@ -1,0 +1,11 @@
+.Sidebar {
+    background-color: #282c34;
+    color: white;
+    height: 100%;
+    width: 25vmin;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}

@@ -1,0 +1,14 @@
+.Contacts {
+    display: flex;
+    width: 80%;
+}
+
+.Contacts a {
+    width: 25%;
+    padding: 10px;
+}
+
+.Contacts img {
+    max-width: 100%;
+    max-height: 100%;
+}
