@@ -1,0 +1,13 @@
+.Summary p, .Summary h4 {
+    font-size: 1em;
+    font-family: Gotham;
+}
+
+.Summary h3 {
+    font-weight: bold;
+}
+
+.Summary a {
+    color: #ec6912;
+    font-weight: bold;
+}

@@ -1,0 +1,13 @@
+[
+    {
+        "image": "/images/about/chula2.jpg",
+        "header": "Computer Engineering, Chulalongkorn University",
+        "meta": "2019 - Now",
+        "description": "Chulalongkorn University, nicknamed Chula, is a public and autonomous research university in Bangkok, Thailand. I'm currently majoring in Computer Engineering. I've been able to take on many challenging duties, such as organizing a camp for high school students, and being a secretary in a Public Speaking club."
+    },{
+        "image": "/images/about/ryw.jpg",
+        "header": "Computer Science, Rayongwittayakom School",
+        "meta": "2013 - 2019",
+        "description": "Rayongwittayakom School is the provincial school of my hometown, Rayong. I joined this school because of its highly famous Computer Science class 'Wit-Com'. While I was studying there, I gained many valuable experiences, such as being a president of the class student committee, and developing many game applications for competing in national-level competitions."
+    }
+]

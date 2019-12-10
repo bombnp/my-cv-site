@@ -6,7 +6,7 @@ const PersonalInfo = (props) => {
     return ( 
         <div className="PersonalInfo">
             <img src="/images/prof_pic_fixed.png" alt="My Face"/>
-            <h2>Nut Pinyo</h2>
+            <h1>Nut Pinyo</h1>
             <p>Backend Developer</p>
         </div>
     );

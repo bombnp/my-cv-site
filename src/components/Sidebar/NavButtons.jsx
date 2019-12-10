@@ -4,7 +4,7 @@ import "./NavButtons.css"
 import NavButton from "./NavButton"
 
 const NavButtons = (props) => {
-    const labels = ["Home", "Education", "Works", "Awards", "Projects", "Contact Me"]
+    const labels = ["Home", "About", "Works", "Awards", "Projects", "Contact Me"]
     return ( 
         <div className="NavButtons">
             {labels.map((label, index) => <NavButton 

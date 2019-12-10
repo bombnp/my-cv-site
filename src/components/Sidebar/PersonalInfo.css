@@ -4,17 +4,18 @@
     align-items: center;
 }
 
-.PersonalInfo h2 {
+.PersonalInfo h1 {
     font-weight: bold;
-    font-size: 3vmin;
+    font-size: 3.5vh;
 }
 
 .PersonalInfo p {
-    font-size: 2vmin;
-    margin-top: -0.5vmin;
+    font-size: 2vh;
+    margin-top: 15px;
 }
 
 .PersonalInfo img {
-    max-width: 80%;
-    padding-bottom: 15px;
+    max-height: 25vh;
+    /* max-width: 80%; */
+    padding-bottom: 0px;
 }

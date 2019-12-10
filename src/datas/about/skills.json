@@ -1,0 +1,39 @@
+[
+    {
+        "src": "/images/about/skills/english.png",
+        "skillName": "English",
+        "level": "Expert"
+    },{
+        "src": "/images/about/skills/c++.jpg",
+        "skillName": "C/C++",
+        "level": "Expert"
+    },{
+        "src": "/images/about/skills/nodejs.png",
+        "skillName": "Node.js",
+        "level": "Proficient"
+    },{
+        "src": "/images/about/skills/python.png",
+        "skillName": "Python",
+        "level": "Proficient"
+    },{
+        "src": "/images/about/skills/unity.png",
+        "skillName": "Unity3D",
+        "level": "Proficient"
+    },{
+        "src": "/images/about/skills/react.png",
+        "skillName": "React",
+        "level": "Experienced"
+    },{
+        "src": "/images/about/skills/java.png",
+        "skillName": "Java",
+        "level": "Experienced"
+    },{
+        "src": "/images/about/skills/mongodb.png",
+        "skillName": "MongoDB",
+        "level": "Experienced"
+    },{
+        "src": "/images/about/skills/firebase.png",
+        "skillName": "Firebase",
+        "level": "Experienced"
+    }
+]
